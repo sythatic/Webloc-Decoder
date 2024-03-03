@@ -2,11 +2,14 @@
     
 # `Webloc Decoder`
 ![Static Badge](https://img.shields.io/badge/v1.0.0--brightgreen)
-#### Webloc decoder is a simple tool for opening macOS .webloc files on Windows or converting them to standard .url files
+#### Webloc decoder is a simple tool for opening Safari shortcuts on Windows or for converting them to standard URL files
 </div>
 
 ## How to Use:
 
-1. place the opener somewhere on the system drive.
-2. set the opener as the default program for webloc files.
-3. do whatever you wish with the converter.
+1. Place the "webloc-opener.cmd" somewhere on the system drive
+2. Using the context menu on any "webloc" file, select "Open With"
+3. Scroll to the bottom of the prompt and select "Choose an app on your PC"
+4. Locate the "webloc-opener.cmd" and select "Open"
+5. Select "Always"
+6. Do whatever you wish with the "webloc-converter.cmd", it can be used from any directory as needed
