@@ -2,7 +2,7 @@
     
 # `Webloc Decoder`
 ![Static Badge](https://img.shields.io/badge/v1.0.0--brightgreen)
-#### Webloc decoder is a simple tool for opening or converting macOS .webloc to standard .url files
+#### Webloc decoder is a simple tool for opening macOS .webloc files on Windows or converting them to standard .url files
 </div>
 
 ## How to Use:
