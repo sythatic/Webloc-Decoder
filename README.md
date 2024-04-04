@@ -1,7 +1,7 @@
 <div align="center">
     
 # `Webloc Decoder`
-#### Webloc Decoder is a simple tool for opening Safari shortcuts on Windows or for converting them to standard URL files
+#### Webloc Decoder is a simple tool for opening macOS Website Locations or `.webloc` files on Windows in the default browser. This package also contains a script for converting them to standard URL Internet Shortcuts or `.url` files.
 </div>
 
 ## How to Use
