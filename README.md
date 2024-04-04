@@ -5,7 +5,7 @@
 #### Webloc decoder is a simple tool for opening Safari shortcuts on Windows or for converting them to standard URL files
 </div>
 
-## How to Use:
+## How to Use
 
 1. Place "webloc-opener.cmd" somewhere on the system drive
 2. Using the context menu on any "webloc" file, select "Open With"
