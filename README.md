@@ -6,9 +6,9 @@
 
 ## How to Use
 
-1. Place "webloc-opener.cmd" somewhere on the system drive
+1. Place "wlocrun.cmd" somewhere on the system drive
 2. Using the context menu on any "webloc" file, select "Open With"
 3. Scroll to the bottom of the prompt and select "Choose an app on your PC"
 4. Locate the "webloc-opener.cmd" and select "Open"
 5. Select "Always"
-6. Do whatever you wish with "webloc-converter.cmd", it can be used from any directory as needed
+6. Do whatever you wish with "wlocconv.cmd", it can be used from any directory as needed
