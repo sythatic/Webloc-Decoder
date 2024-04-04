@@ -2,7 +2,7 @@
     
 # `Webloc Decoder`
 ![Static Badge](https://img.shields.io/badge/v1.0.0-LATEST_RELEASE-brightgreen)
-#### Webloc decoder is a simple tool for opening Safari shortcuts on Windows or for converting them to standard URL files
+#### Webloc Decoder is a simple tool for opening Safari shortcuts on Windows or for converting them to standard URL files
 </div>
 
 ## How to Use
